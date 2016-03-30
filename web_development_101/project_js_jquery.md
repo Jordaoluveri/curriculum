@@ -380,4 +380,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * * [Tyler K's solution](https://github.com/sekurratay/Odin-Projects/tree/master/etchasketch) | [View in browser] (https://htmlpreview.github.io/?https://github.com/sekurratay/Odin-Projects/blob/master/etchasketch/index.html)
 * [Zberggren's solution](https://github.com/zberggren/sketchpad) | [View in browser] (https://htmlpreview.github.io/?https://github.com/zberggren/sketchpad/blob/master/sketchpad.html)
 * [Cornelius Edward's Solution] (https://github.com/corneal64/Etch-A-Sketch) | [View in browser](https://htmlpreview.github.io/?https://github.com/corneal64/Etch-A-Sketch/blob/master/index.html)
+*  [Jordao Ribeiro's Solution] (https://github.com/Jordaoluveri/Etch-A-Sketch) | [View in browser](https://htmlpreview.github.io/?https://github.com/Jordaoluveri/Etch-A-Sketch/blob/master/index.html)
 * Add your solution above this line!
